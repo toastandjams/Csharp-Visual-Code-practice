@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\revature\\arlene-project0-v1\\arlene-project0-v1\\arlene-project0-v1.csproj": {}
+  },
+  "projects": {
+    "C:\\revature\\arlene-project0-v1\\arlene-project0-v1\\arlene-project0-v1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\revature\\arlene-project0-v1\\arlene-project0-v1\\arlene-project0-v1.csproj",
+        "projectName": "arlene-project0-v1",
+        "projectPath": "C:\\revature\\arlene-project0-v1\\arlene-project0-v1\\arlene-project0-v1.csproj",
+        "packagesPath": "C:\\Users\\busya\\.nuget\\packages\\",
+        "outputPath": "C:\\revature\\arlene-project0-v1\\arlene-project0-v1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\busya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\revature\\arlene-project0-v1\\Customers\\Customers.csproj": {
+                "projectPath": "C:\\revature\\arlene-project0-v1\\Customers\\Customers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\revature\\arlene-project0-v1\\Customers\\Customers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\revature\\arlene-project0-v1\\Customers\\Customers.csproj",
+        "projectName": "Customers",
+        "projectPath": "C:\\revature\\arlene-project0-v1\\Customers\\Customers.csproj",
+        "packagesPath": "C:\\Users\\busya\\.nuget\\packages\\",
+        "outputPath": "C:\\revature\\arlene-project0-v1\\Customers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\busya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\revature\arlene-project0-v1\arlene-project0-v1\bin\Debug\netcoreapp2.2\arlene-project0-v1.deps.json
+C:\revature\arlene-project0-v1\arlene-project0-v1\bin\Debug\netcoreapp2.2\arlene-project0-v1.runtimeconfig.json
+C:\revature\arlene-project0-v1\arlene-project0-v1\bin\Debug\netcoreapp2.2\arlene-project0-v1.runtimeconfig.dev.json
+C:\revature\arlene-project0-v1\arlene-project0-v1\bin\Debug\netcoreapp2.2\arlene-project0-v1.dll
+C:\revature\arlene-project0-v1\arlene-project0-v1\bin\Debug\netcoreapp2.2\arlene-project0-v1.pdb
+C:\revature\arlene-project0-v1\arlene-project0-v1\obj\Debug\netcoreapp2.2\arlene-project0-v1.csprojAssemblyReference.cache
+C:\revature\arlene-project0-v1\arlene-project0-v1\obj\Debug\netcoreapp2.2\arlene-project0-v1.csproj.CoreCompileInputs.cache
+C:\revature\arlene-project0-v1\arlene-project0-v1\obj\Debug\netcoreapp2.2\arlene-project0-v1.AssemblyInfoInputs.cache
+C:\revature\arlene-project0-v1\arlene-project0-v1\obj\Debug\netcoreapp2.2\arlene-project0-v1.AssemblyInfo.cs
+C:\revature\arlene-project0-v1\arlene-project0-v1\obj\Debug\netcoreapp2.2\arlene-project0-v1.dll
+C:\revature\arlene-project0-v1\arlene-project0-v1\obj\Debug\netcoreapp2.2\arlene-project0-v1.pdb
+C:\revature\arlene-project0-v1\arlene-project0-v1\bin\Debug\netcoreapp2.2\Customers.dll
+C:\revature\arlene-project0-v1\arlene-project0-v1\bin\Debug\netcoreapp2.2\Customers.pdb
+C:\revature\arlene-project0-v1\arlene-project0-v1\obj\Debug\netcoreapp2.2\arlene-project0-v1.csproj.CopyComplete

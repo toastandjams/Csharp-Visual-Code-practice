@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "arlene-project0-v1/1.0.0": {
+        "dependencies": {
+          "Customers": "1.0.0"
+        },
+        "runtime": {
+          "arlene-project0-v1.dll": {}
+        }
+      },
+      "Customers/1.0.0": {
+        "runtime": {
+          "Customers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arlene-project0-v1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Customers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

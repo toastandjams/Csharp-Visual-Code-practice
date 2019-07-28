@@ -1,0 +1,9 @@
+C:\revature\arlene-project0-v1\Customers\obj\Debug\netcoreapp2.2\Customers.csprojAssemblyReference.cache
+C:\revature\arlene-project0-v1\Customers\obj\Debug\netcoreapp2.2\Customers.csproj.CoreCompileInputs.cache
+C:\revature\arlene-project0-v1\Customers\obj\Debug\netcoreapp2.2\Customers.AssemblyInfoInputs.cache
+C:\revature\arlene-project0-v1\Customers\obj\Debug\netcoreapp2.2\Customers.AssemblyInfo.cs
+C:\revature\arlene-project0-v1\Customers\bin\Debug\netcoreapp2.2\Customers.deps.json
+C:\revature\arlene-project0-v1\Customers\bin\Debug\netcoreapp2.2\Customers.dll
+C:\revature\arlene-project0-v1\Customers\bin\Debug\netcoreapp2.2\Customers.pdb
+C:\revature\arlene-project0-v1\Customers\obj\Debug\netcoreapp2.2\Customers.dll
+C:\revature\arlene-project0-v1\Customers\obj\Debug\netcoreapp2.2\Customers.pdb
